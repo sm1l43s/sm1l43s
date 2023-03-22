@@ -43,6 +43,18 @@
   
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sm1l43s&theme=github) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1l43s&layout=compact&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sm1l43s&theme=github)
+<table><tbody>
+	<tr>
+		<td colspan="2" align="center">
+		<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sm1l43s&theme=github" alt="Github stats" />
+	</td>
+	</tr>
+	<tr>
+		<td align="center">
+		<img height="195px" align="center" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm1l43s&layout=compact&theme=github" />
+		</td>
+		<td align="center">
+		<img height="195px" align="center" alt="Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sm1l43s&theme=github" />
+		</td>
+	</tr>
+</tbody></table>
