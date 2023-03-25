@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE0YTA4N2MyMjMxYzJmNDFhMDVkMjIyMWExZGQ4YmI1YjI5ZjhkMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300"/>
   <h2 text-decoration=none>I'm Brausov Denis</h2>
-	<h3>Java Backend Developer from Belarus</h3>
+	<h3>Java Backend Developer</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/denis-brausov-2aa9011a2">
@@ -41,7 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>	
 </div>
   
-
 ### :fire: My Stats :
 <table><tbody>
 	<tr>
