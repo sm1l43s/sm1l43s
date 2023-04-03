@@ -4,7 +4,7 @@
 	<h3>Java Backend Developer</h3>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/denis-brausov-2aa9011a2">
+  <a href="https://www.linkedin.com/in/brausov-denis">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Sm1l43s">
