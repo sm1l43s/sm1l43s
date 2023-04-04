@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE0YTA4N2MyMjMxYzJmNDFhMDVkMjIyMWExZGQ4YmI1YjI5ZjhkMSZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" width="350"/>
   <h2 text-decoration=none>I'm Brausov Denis</h2>
-	<h3>Java Backend Developer</h3>
+	<h3>Java Back-end Developer</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brausov-denis">
