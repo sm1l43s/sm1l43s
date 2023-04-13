@@ -14,7 +14,7 @@
 <div id="profileView" align="center">
   <img src="https://komarev.com/ghpvc/?username=sm1l43s&style=flat-square&color=blue" alt=""/>
 </div>
-<hr></hr>
+<hr>
 
 ### :woman_technologist: About Me :
 🔭 I’m currently interested as Software Engineer  -> Java Backend Development / Java Full Stack Development. <br>
